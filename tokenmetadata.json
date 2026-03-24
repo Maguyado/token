@@ -1,7 +1,11 @@
 {
-	name: "OLA",
-	symbol: "BRO",
-	description: "Don't buy this shitcoin",
+	name: "WHOAMI",
+	symbol: "WHO",
+	description: "
+	He was seen for the first time...
+	when all OGs were masacred.
+	Seeking revenge.
+	To survive is the mission.",
 	image: "https://raw.githubusercontent.com/Maguyado/token/refs/heads/main/whoamired.png",
 
 }
