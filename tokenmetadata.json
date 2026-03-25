@@ -1,11 +1,7 @@
 {
-	name: "WHOAMI",
-	symbol: "WHO",
-	description: "
-	He was seen for the first time...
-	when all OGs were masacred.
-	Seeking revenge.
-	To survive is the mission.",
+	name: "POKI",
+	symbol: "P",
+	description: "He was seen for the first time...",
 	image: "https://raw.githubusercontent.com/Maguyado/token/main/whoamired.png",
 
 }
